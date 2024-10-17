@@ -1,6 +1,6 @@
 <?php
-$nama = "Husni Abdillah";
-$umur = "19";
+$nama = "Kevin Yesaya Sihite";
+$umur = "22";
 ?>
 
 <!DOCTYPE html>
